@@ -1,0 +1,6 @@
+node moduless/
+.expo/
+.env
+*.log
+.DS_Store
+add gitignore file
